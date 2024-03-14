@@ -60,6 +60,13 @@ This dataset can be used for various analyses and machine learning tasks, includ
 - Predictive modeling to predict student performance based on demographic and background attributes.
 - Identifying factors influencing student performance and providing insights for educational interventions.
 
+***
+
+# Output
+
+![ss1](https://github.com/RushikeshPati20/ML-Project-Student-performance-indicator/assets/107334243/9afc832b-6a66-4b4f-8f3a-8ed8b0e19bd2)
+
+
 ## License
 Please check the license of the dataset before usage.
 
