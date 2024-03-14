@@ -1,11 +1,10 @@
-# Life cycle of Machine learning Project
-##### 1. Understanding the Problem Statement
-##### 2. Data Collection
-##### 3. Data Checks to perform
-##### 4. Exploratory data analysis
-##### 5. Data Pre-Processing
-##### 6. Model Training
-##### 7. Choose best model
+
+# Output
+
+![ss1](https://github.com/RushikeshPati20/ML-Project-Student-performance-indicator/assets/107334243/9afc832b-6a66-4b4f-8f3a-8ed8b0e19bd2)
+
+![ss2](https://github.com/RushikeshPati20/ML-Project-Student-performance-indicator/assets/107334243/9534be29-db9d-47a0-b3ed-bc75e8c3ea9d)
+
 
 ***
 
@@ -59,12 +58,6 @@ This dataset can be used for various analyses and machine learning tasks, includ
 - Exploratory Data Analysis (EDA) to understand the distribution and relationships between different variables.
 - Predictive modeling to predict student performance based on demographic and background attributes.
 - Identifying factors influencing student performance and providing insights for educational interventions.
-
-***
-
-# Output
-
-![ss1](https://github.com/RushikeshPati20/ML-Project-Student-performance-indicator/assets/107334243/9afc832b-6a66-4b4f-8f3a-8ed8b0e19bd2)
 
 
 ## License
